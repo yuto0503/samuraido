@@ -24,7 +24,7 @@ body {
   transform: translate(-50%, -50%);
 }
 #splash_logo img {
-  width: 260px;
+  width: 150px;
 }
 .fadeUp {
   animation-name: fadeUpAnime;
