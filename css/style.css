@@ -17,18 +17,15 @@ body {
   background: #eaf1e3;
   text-align: center;
 }
-
 #splash_logo {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 #splash_logo img {
   width: 260px;
 }
-
 .fadeUp {
   animation-name: fadeUpAnime;
   animation-duration:0.5s;
